@@ -1305,8 +1305,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                            InlineKeyboardButton('⨭ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⨭', url=f'http://telegram.dog/{temp.U_NAME}?startgroup=start')		
                         ],[
-                            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ', url=f'https://t.me/hari_moviez'),
-                            InlineKeyboardButton('💬 sᴜᴘᴘᴏʀᴛ ', url=f'https://t.me/iPopcornMoviesGroups')
+                            InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ ', url=f'https://t.me/Kannada_Cinehub'),
+                            InlineKeyboardButton('💬 sᴜᴘᴘᴏʀᴛ ', url=f'https://t.me/KannadaCinehubGroup')
                         ],[
                             InlineKeyboardButton('• ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ •', callback_data='earn')
                         ]]
@@ -1524,7 +1524,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton(
-                    "ʀᴇᴘᴏ", url="https://github.com/JisshuTG/Jisshu-filter-bot"
+                    "ʀᴇᴘᴏ", url="https://t.me/Kannada_Cinehub"
                 )
             ],
             [
