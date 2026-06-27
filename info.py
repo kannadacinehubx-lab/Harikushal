@@ -49,7 +49,7 @@ DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://Badshah:Badshah@cluste
 DATABASE_NAME = environ.get("DATABASE_NAME", "Cluster0")
 
 # Files index database url
-FILES_DATABASE = environ.get("FILES_DATABASE", "")
+FILES_DATABASE = environ.get("FILES_DATABASE", "mongodb+srv://Badshah:Badshah@cluster0.ub0afba.mongodb.net/?appName=Cluster0")
 COLLECTION_NAME = environ.get("COLLECTION_NAME", "harikushal")
 
 # Other Channel's
